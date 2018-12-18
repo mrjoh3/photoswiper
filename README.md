@@ -3,6 +3,8 @@
 
 # photoswiper
 
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+
 The goal of photoswiper is to create a simple api for adding an image
 gallery to a `shiny` application. [PhotoSwipe](http://photoswipe.com/)
 is a minimalist javascript gallery with no dependancies, created by
