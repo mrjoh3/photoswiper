@@ -1,0 +1,12 @@
+dependencies:
+  - name: photoswipe.min
+    version: 4.1.2
+    src: htmlwidgets/lib/photoswipe-4.1.2
+    script: photoswipe.min.js
+    stylesheet: photoswipe.css
+  - name: photoswipe-ui-default.min
+    version: 4.1.2
+    src: htmlwidgets/lib/photoswipe-4.1.2
+    script: photoswipe-ui-default.min.js
+    stylesheet: default-skin/default-skin.css
+

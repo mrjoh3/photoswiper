@@ -1,0 +1,29 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# photoswiper
+
+`r usethis::use_lifecycle_badge('experimental')`
+
+The goal of photoswiper is to create a simple api for adding an image gallery to a `shiny` application. [PhotoSwipe](http://photoswipe.com/) is a minimalist javascript gallery with no dependancies, created by [Dimitri Semenov](https://github.com/dimsemenov). 
+
+## Installation
+
+You can install the released version of photoswiper from [github](https://github.com/mrjoh3/photoswiper) with:
+
+``` r
+devtools::install_github("mrjoh3/photoswiper")
+```
+
+
