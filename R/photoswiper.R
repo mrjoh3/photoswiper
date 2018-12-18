@@ -11,6 +11,8 @@
 #' }
 #' @param ...
 #'
+#' @import htmlwidgets
+#' @import htmltools
 #' @return
 #' @export
 #'
